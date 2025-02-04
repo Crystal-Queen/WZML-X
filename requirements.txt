@@ -10,6 +10,7 @@ cinemagoer
 cloudscraper
 cryptography
 dnspython
+electrogram
 feedparser
 flask
 gevent
@@ -30,9 +31,9 @@ psutil
 pybase64
 pycountry
 pymongo
-pyrogram==2.0.106
 python-dotenv
 python-magic
+pytz
 qbittorrent-api
 requests
 speedtest-cli
