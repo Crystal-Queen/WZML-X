@@ -10,7 +10,6 @@ cinemagoer
 cloudscraper
 cryptography
 dnspython
-electrogram
 feedparser
 flask
 gevent
@@ -33,6 +32,7 @@ pycountry
 pymongo
 python-dotenv
 python-magic
+pyrofork==2.3.24
 pytz
 qbittorrent-api
 requests
