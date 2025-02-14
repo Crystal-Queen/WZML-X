@@ -30,9 +30,10 @@ psutil
 pybase64
 pycountry
 pymongo
-pyrogram==2.0.106
+pyrofork==2.3.58
 python-dotenv
 python-magic
+pytz
 qbittorrent-api
 requests
 speedtest-cli
@@ -41,4 +42,4 @@ tenacity
 tgcrypto
 uvloop
 xattr
-yt-dlp
+yt-dlp==2024.11.18
